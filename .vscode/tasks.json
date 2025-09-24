@@ -1,0 +1,99 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "build api",
+			"type": "shell",
+			"command": "dotnet build \"Swd392.sln\"",
+			"args": [],
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		},
+		{
+			"label": "build api",
+			"type": "shell",
+			"command": "dotnet build \"Swd392.sln\"",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		},
+		{
+			"label": "build api",
+			"type": "shell",
+			"command": "dotnet build \"Swd392.sln\"",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		},
+		{
+			"label": "build api",
+			"type": "shell",
+			"command": "dotnet build \"Swd392.sln\"",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		},
+		{
+			"label": "build api",
+			"type": "shell",
+			"command": "dotnet build \"Swd392.sln\"",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		},
+		{
+			"label": "build api",
+			"type": "shell",
+			"command": "dotnet build \"Swd392.sln\"",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		},
+		{
+			"label": "build api",
+			"type": "shell",
+			"command": "dotnet build \"Swd392.sln\"",
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": "build"
+		},
+		{
+			"label": "build api",
+			"type": "shell",
+			"command": "dotnet build \"Swd392.sln\"",
+			"group": "build"
+		},
+		{
+			"label": "build api",
+			"type": "shell",
+			"command": "dotnet build \"Swd392.sln\"",
+			"group": "build"
+		},
+		{
+			"label": "build api",
+			"type": "shell",
+			"command": "dotnet build \"Swd392.sln\"",
+			"group": "build"
+		},
+		{
+			"label": "build api",
+			"type": "shell",
+			"command": "dotnet build \"Swd392.sln\"",
+			"group": "build"
+		},
+		{
+			"label": "build api",
+			"type": "shell",
+			"command": "dotnet build \"Swd392.sln\"",
+			"group": "build"
+		}
+	]
+}
